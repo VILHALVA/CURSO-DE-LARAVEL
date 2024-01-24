@@ -2,15 +2,9 @@
 👨‍⚖️LARAVEL É UM FRAMEWORK DE DESENVOLVIMENTO WEB EM PHP QUE FACILITA A CRIAÇÃO DE APLICATIVOS E SITES ROBUSTOS E ESCALÁVEIS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=Laravel)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://laravel.com/docs/10.x) 
-[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-PHP) <br>
-
+[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-PHP) 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLwXQLZ3FdTVH5Tb57_-ll_r0VhNz9RrXb&si=ULKdTD6KCNuP7reH)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 O Laravel é um framework de desenvolvimento web em PHP que foi criado para simplificar e agilizar o processo de criação de aplicativos da web. Ele segue o padrão de arquitetura MVC (Model-View-Controller) e oferece uma série de recursos poderosos e uma sintaxe elegante que torna o desenvolvimento web mais produtivo.
