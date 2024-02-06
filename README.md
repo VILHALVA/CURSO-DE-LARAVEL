@@ -1,12 +1,9 @@
 # CURSO DE LARAVEL
 👨‍⚖️LARAVEL É UM FRAMEWORK DE DESENVOLVIMENTO WEB EM PHP QUE FACILITA A CRIAÇÃO DE APLICATIVOS E SITES ROBUSTOS E ESCALÁVEIS.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://laravel.com/docs/10.x) 
-[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-PHP) 
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLwXQLZ3FdTVH5Tb57_-ll_r0VhNz9RrXb&si=ULKdTD6KCNuP7reH)
+<img src="FOTO.png" align="center" width="400"> <br>
 
-# CONCEITO:
+## CONCEITO:
 O Laravel é um framework de desenvolvimento web em PHP que foi criado para simplificar e agilizar o processo de criação de aplicativos da web. Ele segue o padrão de arquitetura MVC (Model-View-Controller) e oferece uma série de recursos poderosos e uma sintaxe elegante que torna o desenvolvimento web mais produtivo.
 
 1. **MVC (Model-View-Controller)**: O Laravel segue o padrão de arquitetura MVC. Isso significa que seu aplicativo é dividido em três componentes principais: Model, View e Controller. 
@@ -19,8 +16,29 @@ O Laravel é um framework de desenvolvimento web em PHP que foi criado para simp
 
 3. **Artisan**: O Artisan é a interface de linha de comando do Laravel. Ele oferece uma variedade de comandos úteis para tarefas como geração de código, migrações de banco de dados, criação de controladores e muito mais.
 
-# CARACTERISTICAS:
-## Características Positivas:
+## SUA HISTÓRIA:
+1. **Origens (2011)**:
+   - O Laravel foi criado por Taylor Otwell, um desenvolvedor de software do Alabama, nos Estados Unidos.
+   - Otwell começou a desenvolver o Laravel em 2011, depois de ficar insatisfeito com outros frameworks PHP disponíveis na época.
+
+2. **Motivação e Objetivos**:
+   - A motivação por trás do Laravel era criar um framework PHP que fosse elegante, simples e intuitivo de usar, enquanto fornecia uma ampla gama de recursos para simplificar o desenvolvimento de aplicativos web.
+   - Otwell queria criar um framework que permitisse aos desenvolvedores construir aplicativos web de alta qualidade de forma rápida e eficiente.
+
+3. **Lançamento Público (2011)**:
+   - O Laravel foi lançado publicamente em junho de 2011 como um projeto de código aberto no GitHub.
+   - Ele rapidamente ganhou popularidade na comunidade PHP devido à sua sintaxe expressiva, facilidade de uso e poderosas funcionalidades.
+
+4. **Evolução e Versões**:
+   - O Laravel continua a evoluir com lançamentos regulares que trazem novos recursos, melhorias de desempenho e correções de bugs.
+   - Algumas das versões mais significativas incluem o Laravel 4 (2013), que introduziu um sistema de gerenciamento de pacotes integrado chamado Composer, e o Laravel 5 (2015), que trouxe melhorias significativas de desempenho e aprimoramentos na estrutura do framework.
+
+5. **Adoção e Popularidade (2012-presente)**:
+   - Desde seu lançamento, o Laravel tem sido amplamente adotado por desenvolvedores PHP em todo o mundo e é usado em uma ampla variedade de projetos, desde pequenos sites até grandes aplicativos empresariais.
+   - Sua popularidade cresceu devido à sua documentação abrangente, comunidade ativa e extenso ecossistema de pacotes e extensões.
+
+## CARACTERISTICAS:
+### POSITIVAS:
 1. **Elegância e Clareza de Código**: O Laravel é conhecido por sua sintaxe elegante e clara, que torna o código fácil de ler e manter. Isso aumenta a produtividade do desenvolvedor.
 
 2. **MVC e Arquitetura Moderna**: O uso do padrão MVC promove a separação de preocupações, facilitando a organização do código. O Laravel também segue as melhores práticas de desenvolvimento web.
@@ -39,7 +57,7 @@ O Laravel é um framework de desenvolvimento web em PHP que foi criado para simp
 
 9. **Comunidade Ativa**: O Laravel tem uma comunidade ativa de desenvolvedores que contribuem com pacotes e recursos adicionais, bem como fornecem suporte em fóruns e mídias sociais.
 
-## Características Negativas:
+### NEGATIVAS:
 1. **Curva de Aprendizado Inicial**: Para iniciantes, a curva de aprendizado do Laravel pode ser íngreme, especialmente se você não está familiarizado com os conceitos de MVC e PHP.
 
 2. **Requisitos de Hardware**: Aplicativos Laravel podem exigir mais recursos de hardware em comparação com aplicativos mais simples devido às características avançadas e ao uso de várias bibliotecas.
@@ -51,3 +69,10 @@ O Laravel é um framework de desenvolvimento web em PHP que foi criado para simp
 5. **Documentação e Recursos em Inglês**: Grande parte da documentação e recursos disponíveis para o Laravel estão em inglês, o que pode ser uma barreira para desenvolvedores que não falam inglês fluentemente.
 
 6. **Dependência do Composer**: O Laravel depende do Composer para gerenciar as dependências, o que pode ser um obstáculo para desenvolvedores que não estão familiarizados com essa ferramenta.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "NODE STUDIO TREINAMENTOS"](https://youtube.com/playlist?list=PLwXQLZ3FdTVH5Tb57_-ll_r0VhNz9RrXb&si=ULKdTD6KCNuP7reH)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [VEJA A DOCUMENTAÇÃO](https://laravel.com/docs/10.x)
+- [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-PHP)
+- [VEJA A SINTAXE](./SINTAXE.md)
