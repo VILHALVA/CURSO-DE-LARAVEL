@@ -6,7 +6,7 @@
 
 2. **Aviso do antivírus ao instalar o OpenSSL:**
    - Problema: Ao tentar instalar o OpenSSL, meu antivírus (Microsoft Defender SmartScreen) disparou um aviso, alertando que um aplicativo não reconhecido estava sendo iniciado e sugerindo que a execução poderia colocar meu computador em risco.
-   - Solução: Para prosseguir com a instalação do OpenSSL, decidi ignorar o aviso do antivírus, confiando na fonte da qual o arquivo foi [baixado] (https://slproweb.com/products/Win32OpenSSL.html), que foi verificada usando o serviço VirusTotal. 
+   - Solução: Para prosseguir com a instalação do OpenSSL, decidi ignorar o aviso do antivírus, confiando na fonte da qual o arquivo foi [baixado](https://slproweb.com/products/Win32OpenSSL.html), que foi verificada usando o serviço VirusTotal. 
 
 3. **Aviso sobre extensão OpenSSL duplicada ao instalar o Composer:**
    - Problema: Ao tentar instalar o Composer após o download, recebi um aviso indicando que a linha `extension=openssl` no arquivo `php.ini` estava duplicada, o que poderia causar conflitos ou erros.
