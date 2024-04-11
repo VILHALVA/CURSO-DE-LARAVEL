@@ -75,5 +75,6 @@ O Laravel é um framework de desenvolvimento web em PHP que foi criado para simp
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://laravel.com/docs/10.x)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-PHP)
-- [VEJA A SINTAXE](./SINTAXE.md)
+- [VEJA O MANUAL](./MANUAL.md)
+- [VEJA OS ERROS](./ERRO.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:LARAVEL)
