@@ -13,5 +13,5 @@
    - Solução: Para resolver isso, adicionei um ponto e vírgula (`;`) no início da linha `extension=openssl` no arquivo `php.ini` para comentá-la. Comentar a linha desativa sua funcionalidade sem removê-la completamente do arquivo de configuração. Isso resolveu o problema de duplicação e evitou possíveis conflitos. Após fazer essa alteração, reiniciei o servidor Apache no XAMPP para que as alterações no arquivo `php.ini` fossem aplicadas.
 
 4. **Falha ao baixar o Laravel com o Composer:**
-   - Problema: Ao tentar criar um novo projeto Laravel com o Composer, eu enfrentei uma falha devido à ausência da extensão zip e dos comandos unzip/7z do sistema.
-   - Solução: Eu instalei a extensão zip para o PHP e verifiquei a disponibilidade dos comandos unzip/7z. Além disso, corrigir a configuração no arquivo `php.ini` descomentando a linha `extension=openssl`.
+   - Problema: Ao tentar criar um novo projeto Laravel com o Composer, enfrentei uma falha devido à ausência da extensão zip e dos comandos unzip/7z do sistema.
+   - Solução: Eu alterei a configuração no arquivo `php.ini`, removendo o ponto e vírgula (`;`) da linha `extension=zip`, para habilitar a extensão zip necessária para o Composer. Além disso, verifiquei a disponibilidade dos comandos unzip/7z no sistema para garantir que o Composer pudesse descompactar os arquivos baixados corretamente. Essas alterações permitiram que o Composer baixasse e instalasse o Laravel com sucesso.
