@@ -79,9 +79,9 @@ Abra um navegador da web e vá para `http://localhost:8000/`. Você deverá ver 
 ## INSTALANDO AS DEPEDÊNCIAS:
 Se você baixou um projeto Laravel do GitHub que contém um arquivo `composer.json`, você precisa instalar as dependências do Composer. O comando para fazer isso é:
 
-    ```bash
-    composer install
-    ```
+```bash
+composer install
+```
 
 Esse comando lerá o arquivo `composer.json` no diretório do seu projeto Laravel e instalará todas as dependências listadas nele. Certifique-se de estar no diretório raiz do seu projeto Laravel ao executar esse comando.
 
